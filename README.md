@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação e Desenvolvedor Backend.
 
 ---
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ### Tecnologias e Ferramentas
 
 - **Linguagem:** Java (POO)
