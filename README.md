@@ -21,5 +21,5 @@ Estudante de Ciência da Computação e Desenvolvedor Backend.
 
 ### Contato
 
-- **LinkedIn:** [https://www.linkedin.com/in/guspereira-dev/]
+- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/guspereira-dev/)
 - **Email:** `pereira.worker@gmail.com`
