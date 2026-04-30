@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, sou o Pereira! 
 
-<!--
-**Pereira-gu/Pereira-gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação e Desenvolvedor Backend. Tenho foco no desenvolvimento de soluções escaláveis e APIs RESTful, utilizando Java e o ecossistema Spring. Estou sempre em busca de novos desafios e aprimorando minhas habilidades lógicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Ferramentas
+
+- **Linguagem:** Java (POO)
+- **Framework:** Spring Boot
+- **Banco de Dados:** MySQL | PostgreSQL
+- **Infraestrutura e Ferramentas:** Docker | Git | GitHub
+- **Práticas:** REST APIs | Boas Práticas de Código
+
+### Estatísticas e Desafios
+
+- **Resolução de Problemas:** [LeetCode](https://leetcode.com/u/SEU_USER_AQUI) (Treinando lógica diariamente)
+- **Portfólio:** [Acesse meu portfólio](https://my-portfolio-ochre.vercel.app/)
+
+---
+
+### Contato
+
+- **LinkedIn:** [Link para o seu perfil]
+- **Email:** `pereira.worker@gmail.com`
