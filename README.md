@@ -1,6 +1,6 @@
 ### Olá, sou o Pereira! 
 
-Estudante de Ciência da Computação e Desenvolvedor Backend. Tenho foco no desenvolvimento de soluções escaláveis e APIs RESTful, utilizando Java e o ecossistema Spring. Estou sempre em busca de novos desafios e aprimorando minhas habilidades lógicas.
+Estudante de Ciência da Computação e Desenvolvedor Backend.
 
 ---
 
@@ -14,12 +14,12 @@ Estudante de Ciência da Computação e Desenvolvedor Backend. Tenho foco no des
 
 ### Estatísticas e Desafios
 
-- **Resolução de Problemas:** [LeetCode](https://leetcode.com/u/SEU_USER_AQUI) (Treinando lógica diariamente)
+- **Resolução de Problemas:** [LeetCode](https://leetcode.com/u/Gus-Ocean/) (Treinando lógica diariamente)
 - **Portfólio:** [Acesse meu portfólio](https://my-portfolio-ochre.vercel.app/)
 
 ---
 
 ### Contato
 
-- **LinkedIn:** [Link para o seu perfil]
+- **LinkedIn:** [https://www.linkedin.com/in/guspereira-dev/]
 - **Email:** `pereira.worker@gmail.com`
