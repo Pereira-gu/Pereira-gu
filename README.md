@@ -1,5 +1,3 @@
-### Olá, sou o Pereira! 
-
 Estudante de Ciência da Computação e Desenvolvedor Backend.
 
 ---
