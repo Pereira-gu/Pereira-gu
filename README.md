@@ -1,8 +1,14 @@
-### Olá, eu sou o Gustavo dos Santos Pereira! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo!+👋;Desenvolvedor+Backend+Java;Construindo+solu%C3%A7%C3%B5es+eficientes." alt="Typing SVG" />
+</p>
 
-Estudante de Ciência da Computação na UNICID e Desenvolvedor Backend focado no ecossistema Java. Busco criar soluções eficientes, seguras e focadas em resolver problemas do mundo real.
+**Cursando:** Ciência da Computação na UNICID.
 
-🎯 **Objetivo Atual:** Oportunidade de **Estágio ou Vaga Júnior** em Desenvolvimento de Software / Backend.
+**Stack Principal:** Java & Ecossistema Spring Boot.
+
+**Objetivo:** Estágio ou Vaga Júnior em Desenvolvimento Backend.
+
+**Foco Atual:** Testes unitários com JUnit + Mockito e algoritmos no LeetCode.
 
 ---
 
@@ -14,42 +20,35 @@ Estudante de Ciência da Computação na UNICID e Desenvolvedor Backend focado n
 ![MySQL](https://img.shields.io/badge/MySQL-%23005C8A.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
-* **Conceitos e Práticas:** Programação Orientada a Objetos (POO), Arquitetura de APIs REST/RESTful, Testes Unitários e SQL.
+- **Práticas:** APIs REST / RESTful, Programação Orientada a Objetos (POO), Testes Unitários e Boas Práticas de Código.
 
 ---
 
 ### 📌 Projeto em Destaque
 
-**[Sistema de Controle de Acesso (API Acadêmica)](LINK_DO_REPOSITORIO_AQUI)**
-* **O Problema:** Substituir listas de papel e eliminar fraudes em check-ins de eventos universitários.
-* **A Solução:** Desenvolvi uma API REST robusta utilizando **Java 21**, **Spring Boot** e banco de dados **PostgreSQL (Supabase)**, integrada com um aplicativo Android que valida acessos via QR Codes dinâmicos com expiração de 5 minutos.
-* **Resultado:** Automação de 100% dos registros de entrada e saída e criação de um painel de controle com motor de gamificação por mérito.
+- **[Controle de Acesso - API Acadêmica](INSIRA_O_LINK_DO_SEU_REPOSITORIO_AQUI):** API desenvolvida com Java 21, Spring Boot e PostgreSQL (Supabase) para automatizar 100% dos registros de presença de eventos universitários da UNICID, utilizando regras de negócio seguras com QR Codes dinâmicos contra fraudes.
 
 ---
 
-### 📊 Estatísticas e Desafios de Código
+### 🏆 Certificações e Idiomas
 
-<alignment="center">
-  <a href="https://leetcode.com/u/Gus-Ocean/">
-    <img height="150" src="https://leetcode-stats-github-cloud.vercel.app/?username=Gus-Ocean&theme=dark" alt="Estatísticas do LeetCode" />
-  </a>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pereira-gu&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Linguagens mais usadas" />
-</alignment>
+[![HackerRank](https://img.shields.io/badge/-HackerRank_Java_(Basic)-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/4738e64ece78)
+[![EF SET English](https://img.shields.io/badge/EF_SET-Ingl%C4%93s_B2_(C1_Leitura)-003466?style=flat-square&logo=education&logoColor=white)](https://cert.efset.org/pt/MS5Mvm)
 
 ---
 
-### 🏆 Certificações e Diferenciais
-* **HackerRank:** Java (Basic) Certified.
-* **EF SET English Certificate:** Nível B2 (Upper Intermediate) — *Destaque para nível C1 (Avançado) em Leitura técnica.*
+### 📈 Desafios e Contato
+
+- **LeetCode:** [Acessar perfil](https://leetcode.com/u/Gus-Ocean/)
+
+- **LinkedIn:** [Acessar LinkedIn](https://www.linkedin.com/in/guspereira-dev/)
+
+- **Email:** `dev.gustavospereira@gmail.com`
 
 ---
-
-### 🤝 Conecte-se comigo
-
-📬 **Email:** dev.gustavospereira@gmail.com
-🌐 **Portfólio:** [my-portfolio-ochre.vercel.app](https://my-portfolio-ochre.vercel.app/)
-💼 **LinkedIn:** [linkedin.com/in/guspereira-dev](https://www.linkedin.com/in/guspereira-dev/)
-
----
-"Às vezes, o sistema não está lento por falta de infraestrutura. É só falta de olhar para a base da computação."
+<p align="center">
+  <em>"Às vezes, o sistema não está lento por falta de infraestrutura. É só falta de olhar para a base da computação."</em>
+</p>
