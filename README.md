@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo!+%F0%9F%91%8B;Desenvolvedor+Backend+Java;Construindo+solu%C3%A7%B5es+eficientes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo!+%F0%9F%91%8B;Desenvolvedor+Backend+Java;Construindo+solu%C3%A7%C3%B5es+eficientes." alt="Typing SVG" />
 </p>
 
 **Cursando:** Ciência da Computação na UNICID.
