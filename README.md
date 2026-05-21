@@ -49,9 +49,6 @@ Estudante de Ciência da Computação na **UNICID** e Desenvolvedor Backend foca
 ## 🤝 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://my-portfolio-ochre.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portf%C3%B3lio-ED8B00?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/guspereira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
