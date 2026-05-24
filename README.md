@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:ED8B00,100:2496ED&height=200&section=header&text=Gustavo%20Pereira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descColor=e1e1e1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:ED8B00,100:2496ED&height=200&section=header&text=Gustavo%20Pereira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descColor=e1e1e1" />
 </p>
 
 <p align="center">
@@ -35,7 +35,10 @@ Estudante de Ciência da Computação na **UNICID** e Desenvolvedor Backend foca
 
 ## 📌 Projetos em Destaque
 
-🔹 **[Controle de Acesso — API Acadêmica](INSIRA_O_LINK_DO_SEU_REPOSITORIO_AQUI)** &nbsp;&nbsp;&nbsp;API desenvolvida em Java 21 e Spring Boot para gerir e automatizar 100% das presenças em eventos na UNICID. Conta com persistência em PostgreSQL (Supabase) e segurança avançada utilizando QR Codes dinâmicos que expiram a cada 5 minutos para barrar fraudes.
+| 📚 API de Gerenciamento de Biblioteca | ⏱️ Studytime API |
+| :--- | :--- |
+| API RESTful transacional usando **Java 21**, **Spring Security/JWT**, banco isolado no **Docker** e alta cobertura de testes automatizados com **JUnit/Mockito**. | Sistema backend para monitoramento consolidado de horas de estudo, focado em regras de negócio rígidas e veracidade de dados via server-side. |
+| [👉 Acessar Repositório](https://github.com/gu-pereira/api-library) | [👉 Acessar Repositório](https://github.com/gu-pereira/studytime-api) |
 
 ---
 
