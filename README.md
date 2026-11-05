@@ -38,13 +38,12 @@ Estudante de Ciência da Computação na **UNICID** e Desenvolvedor Backend foca
 | 📚 API de Gerenciamento de Biblioteca | ⏱️ Studytime API |
 | :--- | :--- |
 | API RESTful transacional usando **Java 21**, **Spring Security/JWT**, banco isolado no **Docker** e alta cobertura de testes automatizados com **JUnit/Mockito**. | Sistema backend para monitoramento consolidado de horas de estudo, focado em regras de negócio rígidas e veracidade de dados via server-side. |
-| [👉 Acessar Repositório](https://github.com/Pereira-gu/api-library) | [👉 Acessar Repositório](https://github.com/gu-pereira/studytime-api) |
+| [👉 Acessar Repositório](https://github.com/Pereira-gu/api-library) | [👉 Acessar Repositório](https://github.com/Pereira-gu/studytime-api) |
 
 ---
 
 ## 🏆 Certificações e Idiomas
 
-* ☕ **HackerRank:** [Java (Basic) Certified](https://www.hackerrank.com/certificates/seu_id_aqui)
 * 🌐 **EF SET:** [English Certificate B2 Independent](https://cert.efset.org/pt/MS5Mvm) — *Destaque para nível C1 (Avançado) em Leitura técnica.*
 
 ---
