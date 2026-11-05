@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:ED8B00,100:2496ED&height=200&section=header&text=Gustavo%20Pereira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Cloud%20%7C%20Dados%20%26%20Python%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descColor=e1e1e1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:ED8B00,100:2496ED&height=200&section=header&text=Gustavo%20Pereira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20e%20Cloud%20%7C%20Dados%20e%20Python%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descColor=e1e1e1" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ Estudante de Ciência da Computação na **UNICID** e desenvolvedor em início d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />
 </p>
 
