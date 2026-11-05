@@ -1,9 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:ED8B00,100:2496ED&height=200&section=header&text=Gustavo%20Pereira&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Cloud%20%7C%20Dados%20%26%20Python%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descColor=e1e1e1" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Iniciando+sistema...;Verificando+credenciais...;Conectando+ao+ecossistema+Java...;Acesso+liberado.+Bem-vindo!" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:ED8B00,100:2496ED&height=200&section=header&text=Gustavo%20Pereira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Cloud%20%7C%20Dados%20%26%20Python%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descColor=e1e1e1" />
 </p>
 
 ---
@@ -69,10 +65,6 @@ Estudante de Ciência da Computação na **UNICID** e desenvolvedor em início d
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=600&lines=Encerrando+sess%C3%A3o...;Armazenando+logs...;Sistema+desconectado." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <em>"Às vezes, o sistema não está lento por falta de infraestrutura. É só falta de olhar para a base da computação."</em>
